@@ -3,9 +3,9 @@
 
 
 /**
- * buuble_sort - check the code for
- * array: array of data
- * size: size of array
+ * bubble_sort - check the code for
+ * @array: array of data
+ * @size: size of array
  * Return: Always EXIT_SUCCESS.
  */
 void bubble_sort(int *array, size_t size)
